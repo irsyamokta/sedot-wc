@@ -15,7 +15,7 @@ body {
 .highlight {
   padding: 0 15px; /* Padding untuk memberi ruang antara teks dan background */
   display: inline-block;
-  background-image: url("./src/assets/icon/highlight.svg");
+  background-image: url("../src/assets/icon/highlight.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -28,7 +28,7 @@ body {
 .bg-about {
   padding: 0 15px; /* Padding untuk memberi ruang antara teks dan background */
   display: inline-block;
-  background-image: url("./src/assets/images/img-about.jpeg");
+  background-image: url("../src/assets/images/img-about.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

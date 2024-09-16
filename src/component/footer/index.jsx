@@ -12,13 +12,13 @@ export const Footer = () => {
                         <span className="block text-sm text-gray-500 sm:text-center">Copyright © 2024 | All Right Reserved</span>
                         <ul className="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0">
                             <li>
-                                <a href="#" className="hover:underline me-4 md:me-6">Beranda</a>
+                                <a href="#home" className="hover:underline me-4 md:me-6">Beranda</a>
                             </li>
                             <li>
-                                <a href="#" className="hover:underline me-4 md:me-6">Tentang</a>
+                                <a href="#about" className="hover:underline me-4 md:me-6">Tentang</a>
                             </li>
                             <li>
-                                <a href="#" className="hover:underline">Layanan</a>
+                                <a href="#service" className="hover:underline">Layanan</a>
                             </li>
                         </ul>
                     </div>
