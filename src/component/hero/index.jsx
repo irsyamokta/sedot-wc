@@ -3,7 +3,7 @@ export const Hero = () => {
     return (
         <>
             <Navbar />
-            <section id="home" className="flex flex-col justify-center items-center h-[100vh] bg-center bg-no-repeat bg-[url('./src/assets/images/img-hero.jpeg')] bg-gray-500 bg-blend-multiply">
+            <section id="home" className="flex flex-col justify-center items-center h-[100vh] bg-center bg-no-repeat bg-[url('../src/assets/images/img-hero.jpeg')] bg-gray-500 bg-blend-multiply">
                 <div className="px-6 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
                     <h1 className="mb-8 text-3xl font-semibold tracking-wide text-white md:text-5xl lg:text-6xl">Layanan <span className='highlight'>Tepat</span> dengan</h1>
                     <h1 className="mb-8 text-3xl font-semibold tracking-wide text-white md:text-5xl lg:text-6xl">Pembersihan yang <span className='highlight'>Cepat</span></h1>
